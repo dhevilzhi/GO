@@ -99,5 +99,5 @@ pkg/windows_amd64/golang.org/x/tools/internal/semver.a
 pkg/windows_amd64/golang.org/x/tools/refactor/importgraph.a
 pkg/windows_amd64/golang.org/x/tools/refactor/rename.a
 pkg/windows_amd64/golang.org/x/tools/refactor/satisfy.a
-src/github.com
-src/golang.org
+src/github.com/
+src/golang.org/
