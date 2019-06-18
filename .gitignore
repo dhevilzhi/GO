@@ -101,3 +101,4 @@ pkg/windows_amd64/golang.org/x/tools/refactor/rename.a
 pkg/windows_amd64/golang.org/x/tools/refactor/satisfy.a
 src/github.com/
 src/golang.org/
+bin/gocode-gomod.exe
